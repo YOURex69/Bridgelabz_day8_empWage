@@ -1,0 +1,14 @@
+D:\bridgelabz\Day8NetProblems\empWageUC7\empWageUC7\bin\Debug\netcoreapp3.1\empWageUC7.exe
+D:\bridgelabz\Day8NetProblems\empWageUC7\empWageUC7\bin\Debug\netcoreapp3.1\empWageUC7.deps.json
+D:\bridgelabz\Day8NetProblems\empWageUC7\empWageUC7\bin\Debug\netcoreapp3.1\empWageUC7.runtimeconfig.json
+D:\bridgelabz\Day8NetProblems\empWageUC7\empWageUC7\bin\Debug\netcoreapp3.1\empWageUC7.runtimeconfig.dev.json
+D:\bridgelabz\Day8NetProblems\empWageUC7\empWageUC7\bin\Debug\netcoreapp3.1\empWageUC7.dll
+D:\bridgelabz\Day8NetProblems\empWageUC7\empWageUC7\bin\Debug\netcoreapp3.1\empWageUC7.pdb
+D:\bridgelabz\Day8NetProblems\empWageUC7\empWageUC7\obj\Debug\netcoreapp3.1\empWageUC7.csproj.AssemblyReference.cache
+D:\bridgelabz\Day8NetProblems\empWageUC7\empWageUC7\obj\Debug\netcoreapp3.1\empWageUC7.GeneratedMSBuildEditorConfig.editorconfig
+D:\bridgelabz\Day8NetProblems\empWageUC7\empWageUC7\obj\Debug\netcoreapp3.1\empWageUC7.AssemblyInfoInputs.cache
+D:\bridgelabz\Day8NetProblems\empWageUC7\empWageUC7\obj\Debug\netcoreapp3.1\empWageUC7.AssemblyInfo.cs
+D:\bridgelabz\Day8NetProblems\empWageUC7\empWageUC7\obj\Debug\netcoreapp3.1\empWageUC7.csproj.CoreCompileInputs.cache
+D:\bridgelabz\Day8NetProblems\empWageUC7\empWageUC7\obj\Debug\netcoreapp3.1\empWageUC7.dll
+D:\bridgelabz\Day8NetProblems\empWageUC7\empWageUC7\obj\Debug\netcoreapp3.1\empWageUC7.pdb
+D:\bridgelabz\Day8NetProblems\empWageUC7\empWageUC7\obj\Debug\netcoreapp3.1\empWageUC7.genruntimeconfig.cache
