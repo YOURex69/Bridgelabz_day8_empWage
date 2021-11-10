@@ -1,0 +1,14 @@
+D:\bridgelabz\Day8NetProblems\EmpWagePartTime\EmpWagePartTime\bin\Debug\netcoreapp3.1\EmpWagePartTime.exe
+D:\bridgelabz\Day8NetProblems\EmpWagePartTime\EmpWagePartTime\bin\Debug\netcoreapp3.1\EmpWagePartTime.deps.json
+D:\bridgelabz\Day8NetProblems\EmpWagePartTime\EmpWagePartTime\bin\Debug\netcoreapp3.1\EmpWagePartTime.runtimeconfig.json
+D:\bridgelabz\Day8NetProblems\EmpWagePartTime\EmpWagePartTime\bin\Debug\netcoreapp3.1\EmpWagePartTime.runtimeconfig.dev.json
+D:\bridgelabz\Day8NetProblems\EmpWagePartTime\EmpWagePartTime\bin\Debug\netcoreapp3.1\EmpWagePartTime.dll
+D:\bridgelabz\Day8NetProblems\EmpWagePartTime\EmpWagePartTime\bin\Debug\netcoreapp3.1\EmpWagePartTime.pdb
+D:\bridgelabz\Day8NetProblems\EmpWagePartTime\EmpWagePartTime\obj\Debug\netcoreapp3.1\EmpWagePartTime.GeneratedMSBuildEditorConfig.editorconfig
+D:\bridgelabz\Day8NetProblems\EmpWagePartTime\EmpWagePartTime\obj\Debug\netcoreapp3.1\EmpWagePartTime.AssemblyInfoInputs.cache
+D:\bridgelabz\Day8NetProblems\EmpWagePartTime\EmpWagePartTime\obj\Debug\netcoreapp3.1\EmpWagePartTime.AssemblyInfo.cs
+D:\bridgelabz\Day8NetProblems\EmpWagePartTime\EmpWagePartTime\obj\Debug\netcoreapp3.1\EmpWagePartTime.csproj.CoreCompileInputs.cache
+D:\bridgelabz\Day8NetProblems\EmpWagePartTime\EmpWagePartTime\obj\Debug\netcoreapp3.1\EmpWagePartTime.dll
+D:\bridgelabz\Day8NetProblems\EmpWagePartTime\EmpWagePartTime\obj\Debug\netcoreapp3.1\EmpWagePartTime.pdb
+D:\bridgelabz\Day8NetProblems\EmpWagePartTime\EmpWagePartTime\obj\Debug\netcoreapp3.1\EmpWagePartTime.genruntimeconfig.cache
+D:\bridgelabz\Day8NetProblems\EmpWagePartTime\EmpWagePartTime\obj\Debug\netcoreapp3.1\EmpWagePartTime.csproj.AssemblyReference.cache
