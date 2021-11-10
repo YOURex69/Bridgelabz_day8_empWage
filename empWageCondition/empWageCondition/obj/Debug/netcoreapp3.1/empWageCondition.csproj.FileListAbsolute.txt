@@ -1,0 +1,13 @@
+D:\bridgelabz\Day8NetProblems\empWageCondition\empWageCondition\bin\Debug\netcoreapp3.1\empWageCondition.exe
+D:\bridgelabz\Day8NetProblems\empWageCondition\empWageCondition\bin\Debug\netcoreapp3.1\empWageCondition.deps.json
+D:\bridgelabz\Day8NetProblems\empWageCondition\empWageCondition\bin\Debug\netcoreapp3.1\empWageCondition.runtimeconfig.json
+D:\bridgelabz\Day8NetProblems\empWageCondition\empWageCondition\bin\Debug\netcoreapp3.1\empWageCondition.runtimeconfig.dev.json
+D:\bridgelabz\Day8NetProblems\empWageCondition\empWageCondition\bin\Debug\netcoreapp3.1\empWageCondition.dll
+D:\bridgelabz\Day8NetProblems\empWageCondition\empWageCondition\bin\Debug\netcoreapp3.1\empWageCondition.pdb
+D:\bridgelabz\Day8NetProblems\empWageCondition\empWageCondition\obj\Debug\netcoreapp3.1\empWageCondition.GeneratedMSBuildEditorConfig.editorconfig
+D:\bridgelabz\Day8NetProblems\empWageCondition\empWageCondition\obj\Debug\netcoreapp3.1\empWageCondition.AssemblyInfoInputs.cache
+D:\bridgelabz\Day8NetProblems\empWageCondition\empWageCondition\obj\Debug\netcoreapp3.1\empWageCondition.AssemblyInfo.cs
+D:\bridgelabz\Day8NetProblems\empWageCondition\empWageCondition\obj\Debug\netcoreapp3.1\empWageCondition.csproj.CoreCompileInputs.cache
+D:\bridgelabz\Day8NetProblems\empWageCondition\empWageCondition\obj\Debug\netcoreapp3.1\empWageCondition.dll
+D:\bridgelabz\Day8NetProblems\empWageCondition\empWageCondition\obj\Debug\netcoreapp3.1\empWageCondition.pdb
+D:\bridgelabz\Day8NetProblems\empWageCondition\empWageCondition\obj\Debug\netcoreapp3.1\empWageCondition.genruntimeconfig.cache
