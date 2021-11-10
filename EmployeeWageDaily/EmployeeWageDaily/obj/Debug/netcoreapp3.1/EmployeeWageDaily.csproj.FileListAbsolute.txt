@@ -1,0 +1,14 @@
+D:\bridgelabz\Day8NetProblems\EmployeeWageDaily\EmployeeWageDaily\bin\Debug\netcoreapp3.1\EmployeeWageDaily.exe
+D:\bridgelabz\Day8NetProblems\EmployeeWageDaily\EmployeeWageDaily\bin\Debug\netcoreapp3.1\EmployeeWageDaily.deps.json
+D:\bridgelabz\Day8NetProblems\EmployeeWageDaily\EmployeeWageDaily\bin\Debug\netcoreapp3.1\EmployeeWageDaily.runtimeconfig.json
+D:\bridgelabz\Day8NetProblems\EmployeeWageDaily\EmployeeWageDaily\bin\Debug\netcoreapp3.1\EmployeeWageDaily.runtimeconfig.dev.json
+D:\bridgelabz\Day8NetProblems\EmployeeWageDaily\EmployeeWageDaily\bin\Debug\netcoreapp3.1\EmployeeWageDaily.dll
+D:\bridgelabz\Day8NetProblems\EmployeeWageDaily\EmployeeWageDaily\bin\Debug\netcoreapp3.1\EmployeeWageDaily.pdb
+D:\bridgelabz\Day8NetProblems\EmployeeWageDaily\EmployeeWageDaily\obj\Debug\netcoreapp3.1\EmployeeWageDaily.csproj.AssemblyReference.cache
+D:\bridgelabz\Day8NetProblems\EmployeeWageDaily\EmployeeWageDaily\obj\Debug\netcoreapp3.1\EmployeeWageDaily.GeneratedMSBuildEditorConfig.editorconfig
+D:\bridgelabz\Day8NetProblems\EmployeeWageDaily\EmployeeWageDaily\obj\Debug\netcoreapp3.1\EmployeeWageDaily.AssemblyInfoInputs.cache
+D:\bridgelabz\Day8NetProblems\EmployeeWageDaily\EmployeeWageDaily\obj\Debug\netcoreapp3.1\EmployeeWageDaily.AssemblyInfo.cs
+D:\bridgelabz\Day8NetProblems\EmployeeWageDaily\EmployeeWageDaily\obj\Debug\netcoreapp3.1\EmployeeWageDaily.csproj.CoreCompileInputs.cache
+D:\bridgelabz\Day8NetProblems\EmployeeWageDaily\EmployeeWageDaily\obj\Debug\netcoreapp3.1\EmployeeWageDaily.dll
+D:\bridgelabz\Day8NetProblems\EmployeeWageDaily\EmployeeWageDaily\obj\Debug\netcoreapp3.1\EmployeeWageDaily.pdb
+D:\bridgelabz\Day8NetProblems\EmployeeWageDaily\EmployeeWageDaily\obj\Debug\netcoreapp3.1\EmployeeWageDaily.genruntimeconfig.cache
