@@ -1,0 +1,13 @@
+D:\bridgelabz\Day8NetProblems\EmployeeWageForMonth\EmployeeWageForMonth\bin\Debug\netcoreapp3.1\EmployeeWageForMonth.exe
+D:\bridgelabz\Day8NetProblems\EmployeeWageForMonth\EmployeeWageForMonth\bin\Debug\netcoreapp3.1\EmployeeWageForMonth.deps.json
+D:\bridgelabz\Day8NetProblems\EmployeeWageForMonth\EmployeeWageForMonth\bin\Debug\netcoreapp3.1\EmployeeWageForMonth.runtimeconfig.json
+D:\bridgelabz\Day8NetProblems\EmployeeWageForMonth\EmployeeWageForMonth\bin\Debug\netcoreapp3.1\EmployeeWageForMonth.runtimeconfig.dev.json
+D:\bridgelabz\Day8NetProblems\EmployeeWageForMonth\EmployeeWageForMonth\bin\Debug\netcoreapp3.1\EmployeeWageForMonth.dll
+D:\bridgelabz\Day8NetProblems\EmployeeWageForMonth\EmployeeWageForMonth\bin\Debug\netcoreapp3.1\EmployeeWageForMonth.pdb
+D:\bridgelabz\Day8NetProblems\EmployeeWageForMonth\EmployeeWageForMonth\obj\Debug\netcoreapp3.1\EmployeeWageForMonth.GeneratedMSBuildEditorConfig.editorconfig
+D:\bridgelabz\Day8NetProblems\EmployeeWageForMonth\EmployeeWageForMonth\obj\Debug\netcoreapp3.1\EmployeeWageForMonth.AssemblyInfoInputs.cache
+D:\bridgelabz\Day8NetProblems\EmployeeWageForMonth\EmployeeWageForMonth\obj\Debug\netcoreapp3.1\EmployeeWageForMonth.AssemblyInfo.cs
+D:\bridgelabz\Day8NetProblems\EmployeeWageForMonth\EmployeeWageForMonth\obj\Debug\netcoreapp3.1\EmployeeWageForMonth.csproj.CoreCompileInputs.cache
+D:\bridgelabz\Day8NetProblems\EmployeeWageForMonth\EmployeeWageForMonth\obj\Debug\netcoreapp3.1\EmployeeWageForMonth.dll
+D:\bridgelabz\Day8NetProblems\EmployeeWageForMonth\EmployeeWageForMonth\obj\Debug\netcoreapp3.1\EmployeeWageForMonth.pdb
+D:\bridgelabz\Day8NetProblems\EmployeeWageForMonth\EmployeeWageForMonth\obj\Debug\netcoreapp3.1\EmployeeWageForMonth.genruntimeconfig.cache
