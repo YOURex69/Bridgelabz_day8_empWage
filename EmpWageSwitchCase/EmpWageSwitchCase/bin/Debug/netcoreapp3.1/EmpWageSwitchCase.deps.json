@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "EmpWageSwitchCase/1.0.0": {
+        "runtime": {
+          "EmpWageSwitchCase.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EmpWageSwitchCase/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

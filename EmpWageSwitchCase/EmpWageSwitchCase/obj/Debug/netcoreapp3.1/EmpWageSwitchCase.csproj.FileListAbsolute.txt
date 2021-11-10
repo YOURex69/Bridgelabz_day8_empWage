@@ -1,0 +1,14 @@
+D:\bridgelabz\Day8NetProblems\EmpWageSwitchCase\EmpWageSwitchCase\bin\Debug\netcoreapp3.1\EmpWageSwitchCase.exe
+D:\bridgelabz\Day8NetProblems\EmpWageSwitchCase\EmpWageSwitchCase\bin\Debug\netcoreapp3.1\EmpWageSwitchCase.deps.json
+D:\bridgelabz\Day8NetProblems\EmpWageSwitchCase\EmpWageSwitchCase\bin\Debug\netcoreapp3.1\EmpWageSwitchCase.runtimeconfig.json
+D:\bridgelabz\Day8NetProblems\EmpWageSwitchCase\EmpWageSwitchCase\bin\Debug\netcoreapp3.1\EmpWageSwitchCase.runtimeconfig.dev.json
+D:\bridgelabz\Day8NetProblems\EmpWageSwitchCase\EmpWageSwitchCase\bin\Debug\netcoreapp3.1\EmpWageSwitchCase.dll
+D:\bridgelabz\Day8NetProblems\EmpWageSwitchCase\EmpWageSwitchCase\bin\Debug\netcoreapp3.1\EmpWageSwitchCase.pdb
+D:\bridgelabz\Day8NetProblems\EmpWageSwitchCase\EmpWageSwitchCase\obj\Debug\netcoreapp3.1\EmpWageSwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+D:\bridgelabz\Day8NetProblems\EmpWageSwitchCase\EmpWageSwitchCase\obj\Debug\netcoreapp3.1\EmpWageSwitchCase.AssemblyInfoInputs.cache
+D:\bridgelabz\Day8NetProblems\EmpWageSwitchCase\EmpWageSwitchCase\obj\Debug\netcoreapp3.1\EmpWageSwitchCase.AssemblyInfo.cs
+D:\bridgelabz\Day8NetProblems\EmpWageSwitchCase\EmpWageSwitchCase\obj\Debug\netcoreapp3.1\EmpWageSwitchCase.csproj.CoreCompileInputs.cache
+D:\bridgelabz\Day8NetProblems\EmpWageSwitchCase\EmpWageSwitchCase\obj\Debug\netcoreapp3.1\EmpWageSwitchCase.dll
+D:\bridgelabz\Day8NetProblems\EmpWageSwitchCase\EmpWageSwitchCase\obj\Debug\netcoreapp3.1\EmpWageSwitchCase.pdb
+D:\bridgelabz\Day8NetProblems\EmpWageSwitchCase\EmpWageSwitchCase\obj\Debug\netcoreapp3.1\EmpWageSwitchCase.genruntimeconfig.cache
+D:\bridgelabz\Day8NetProblems\EmpWageSwitchCase\EmpWageSwitchCase\obj\Debug\netcoreapp3.1\EmpWageSwitchCase.csproj.AssemblyReference.cache
